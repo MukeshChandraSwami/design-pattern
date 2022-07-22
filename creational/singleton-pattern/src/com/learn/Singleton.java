@@ -1,6 +1,7 @@
 package com.learn;
 
 import java.io.ObjectStreamException;
+import java.io.Serial;
 import java.io.Serializable;
 
 public class Singleton implements Serializable, Cloneable {
@@ -34,6 +35,7 @@ public class Singleton implements Serializable, Cloneable {
      * @throws ObjectStreamException
      *
      */
+    @Serial
     private Object readResolve() throws ObjectStreamException {
         System.out.println("Loading from read resolve");
         return singleton;

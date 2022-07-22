@@ -6,5 +6,9 @@ public class Main {
         NormalVehicle vehicle = new Car();
         vehicle.speed();
         vehicle.addFuel();
+
+        ElectricalVehicle ev = new ElectricCar();
+        ev.chargeBattery();
+        ev.speed();
     }
 }

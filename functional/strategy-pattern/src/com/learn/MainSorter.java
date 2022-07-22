@@ -1,6 +1,6 @@
 package com.learn;
 
-public class Main {
+public class MainSorter {
 
     public static void main(String[] args) {
         SortingExecutor executor = new SortingExecutor();
