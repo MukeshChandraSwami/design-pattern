@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/creational/abstract-factory-pattern/abstract-factory-pattern.iml" filepath="$PROJECT_DIR$/creational/abstract-factory-pattern/abstract-factory-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creational/builder-pattern/builder-pattern.iml" filepath="$PROJECT_DIR$/creational/builder-pattern/builder-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/dependency-inversion/dependency-inversion.iml" filepath="$PROJECT_DIR$/SOLID/dependency-inversion/dependency-inversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/design-pattern.iml" filepath="$PROJECT_DIR$/.idea/design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creational/factory-pattern/factory-pattern.iml" filepath="$PROJECT_DIR$/creational/factory-pattern/factory-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/interface-segregation/interface-segregation.iml" filepath="$PROJECT_DIR$/SOLID/interface-segregation/interface-segregation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/behavioral/iterator-pattern/iterator-pattern.iml" filepath="$PROJECT_DIR$/behavioral/iterator-pattern/iterator-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functional/iterator-pattern/iterator-pattern1.iml" filepath="$PROJECT_DIR$/functional/iterator-pattern/iterator-pattern1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/lisko-substitution/lisko-substitution.iml" filepath="$PROJECT_DIR$/SOLID/lisko-substitution/lisko-substitution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/open-close/open-close.iml" filepath="$PROJECT_DIR$/SOLID/open-close/open-close.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creational/prototype-pattern/prototype-pattern.iml" filepath="$PROJECT_DIR$/creational/prototype-pattern/prototype-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/single-responsibility/single-responsibility.iml" filepath="$PROJECT_DIR$/SOLID/single-responsibility/single-responsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creational/singleton-pattern/singleton-pattern.iml" filepath="$PROJECT_DIR$/creational/singleton-pattern/singleton-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/behavioral/strategy-pattern/strategy-pattern.iml" filepath="$PROJECT_DIR$/behavioral/strategy-pattern/strategy-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functional/strategy-pattern/strategy-pattern1.iml" filepath="$PROJECT_DIR$/functional/strategy-pattern/strategy-pattern1.iml" />
+    </modules>
+  </component>
+</project>
